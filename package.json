@@ -1,0 +1,16 @@
+{
+  "name": "framework-asf",
+  "version": "",
+  
+  
+
+  "system": [
+    "windows",
+    "windows_amd64",
+    "windows_x86"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhemaiedmariem/framework-asf.git"
+  }
+}
